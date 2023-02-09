@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1409427983 source:/home/tiago/Documentos/Códigos Fonte/C C++/eXcript/excriptest/main.c
+	<stdio.h>
+	<stdlib.h>
+

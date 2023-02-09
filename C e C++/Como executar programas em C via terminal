@@ -1,0 +1,21 @@
+
+deve ser a permissão. tente o seguinte:
+
+no meu exemplo vou usar o nome geral, suponha seu executável se chama "programa.bin".
+Entre na pasta que ele está,
+clica com o botão direito do mose, escolhe "abrir terminal aqui" abra um terminal e faça este comando:
+
+
+$ sudo chmod +x programa.bin (no lugar de programa.bin, coloque o nome completo do seu programa, o que quer abrir)
+
+agora, no terminal mesmo, TESTE seu programa, faça este comando:
+
+$ programa
+
+ou se seu programa tiver uma extensão "sh" (inves de .bin, por ex), faça assim
+
+$ ./programa.sh
+
+
+
+a partir daí, se o programa executar, acho que ele já irá abrir com o clique duplo.
